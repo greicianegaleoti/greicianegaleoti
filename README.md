@@ -42,6 +42,6 @@ A clean, themed task manager with local storage and UI effects.
 ---
 
 ## Let’s connect
-- 📩 Newsletter: Tech Transitions — Women Power  [https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7162966415669501952](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7162966415669501952)
+- 📩 Newsletter: Tech Transitions — Women Power  [https://www.linkedin.com/newsletter/Tech-Transitions](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7162966415669501952)
 - 💼 LinkedIn: [linkedin.com/in/greiciane-galeoti](https://www.linkedin.com/in/greiciane-galeoti/)
 - 🌐 Portfolio: coming soon...
