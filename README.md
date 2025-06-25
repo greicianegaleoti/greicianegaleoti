@@ -1,6 +1,6 @@
 # Greiciane Galeoti
 
-Transitioning from international logistics to full-stack development — with a strong focus on real-world projects, agile practices, and continuous learning.
+Transitioning from international logistics to full-stack development, with a strong focus on real-world projects, agile practices, and continuous learning.
 
 🎓 B.Sc. in Computer Science (in progress)  
 🎓 MBA in Software Engineering @ USP  
@@ -34,7 +34,7 @@ Transitioning from international logistics to full-stack development — with a 
 A dynamic visualization of the Corleone family, fetching data from a custom API.
 
 🔸 [Mafia Wisdom Generator](https://greicianegaleoti.github.io/mafia-wisdom-generator)  
-Generates iconic quotes from mafia figures — styled and animated.
+Generates iconic quotes from mafia figures, styled and animated.
 
 🔸 [Don ToDo List](https://greicianegaleoti.github.io/don-todolist)  
 A clean, themed task manager with local storage and UI effects.
@@ -42,23 +42,6 @@ A clean, themed task manager with local storage and UI effects.
 ---
 
 ## Let’s connect
-📩 Newsletter: Tech Transitions — Women Power  <style>
-      .libutton {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        padding: 7px;
-        text-align: center;
-        outline: none;
-        text-decoration: none !important;
-        color: #ffffff !important;
-        width: 200px;
-        height: 32px;
-        border-radius: 16px;
-        background-color: #0A66C2;
-        font-family: "SF Pro Text", Helvetica, sans-serif;
-      }
-    </style>
-<a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7162966415669501952" target="_blank">Subscribe on LinkedIn</a>
-💼 LinkedIn: [linkedin.com/in/greiciane-galeoti](https://www.linkedin.com/in/greiciane-galeoti/)
-🌐 Portfolio: coming soon...
+- 📩 Newsletter: Tech Transitions — Women Power  [https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7162966415669501952](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7162966415669501952)
+- 💼 LinkedIn: [linkedin.com/in/greiciane-galeoti](https://www.linkedin.com/in/greiciane-galeoti/)
+- 🌐 Portfolio: coming soon...
