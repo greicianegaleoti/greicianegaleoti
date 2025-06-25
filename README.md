@@ -5,7 +5,7 @@ Transitioning from international logistics to full-stack development, with a str
 🎓 B.Sc. in Computer Science (in progress)  
 🎓 MBA in Software Engineering @USP/Esalq  
 📌 Certified Scrum Master @Scrum.org
-🗣️ Multilingual: native Portuguese, fluent in English and Spanish, learning French.
+🗣️ Multilingual: native Portuguese, fluent in English and Spanish, learning French. 
 
 ---
 
