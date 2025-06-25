@@ -3,8 +3,8 @@
 Transitioning from international logistics to full-stack development, with a strong focus on real-world projects, agile practices, and continuous learning.
 
 🎓 B.Sc. in Computer Science (in progress)  
-🎓 MBA in Software Engineering @ USP  
-📌 Certified Scrum Master (Scrum.org)
+🎓 MBA in Software Engineering @USP/Esalq  
+📌 Certified Scrum Master @Scrum.org
 
 ---
 
