@@ -4,7 +4,7 @@ Transitioning from international logistics to full-stack development, with a str
 
 🎓 B.Sc. in Computer Science (in progress)  
 🎓 MBA in Software Engineering @USP/Esalq (in progress)  
-📌 Certified Scrum Master @Scrum.org  
+📌 Certified Scrum Master @Scrum.org ![Scrum Master](https://img.shields.io/badge/Scrum%20Master-Certified-brightgreen) 
 🗣️ Multilingual: native Portuguese, fluent in English and Spanish, learning French. 
 
 ---
