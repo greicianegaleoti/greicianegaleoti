@@ -3,7 +3,7 @@
 Transitioning from international logistics to full-stack development, with a strong focus on real-world projects, agile practices, and continuous learning.
 
 🎓 B.Sc. in Computer Science (in progress)  
-🎓 MBA in Software Engineering @USP/Esalq  
+🎓 MBA in Software Engineering @USP/Esalq (in progress)
 📌 Certified Scrum Master @Scrum.org  
 🗣️ Multilingual: native Portuguese, fluent in English and Spanish, learning French. 
 
@@ -26,6 +26,7 @@ Transitioning from international logistics to full-stack development, with a str
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
